@@ -34,6 +34,12 @@
             "email": "rvanvelzen@swis.nl",
             "homepage": "https://github.com/Rockheep",
             "role": "Developer"
+        },
+        {
+            "name": "Joeri Damme",
+            "email": "joeri.damme@npo.nh",
+            "homepage": "https://github.com/JoeriDamme",
+            "role": "Developer"
         }
     ],
     "require": {
