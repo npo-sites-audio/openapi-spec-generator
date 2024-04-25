@@ -1,5 +1,5 @@
 {
-    "name": "swisnl/openapi-spec-generator",
+    "name": "joeridamme/openapi-spec-generator",
     "type": "library",
     "description": "Creates Open API spec for a Laravel JSON:API",
     "keywords": [
